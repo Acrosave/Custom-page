@@ -1,3 +1,3 @@
 ### Enlace al proyecto
 
-https://acrosave.github.io/Goit-custom/
+https://acrosave.github.io/Custom-page/
